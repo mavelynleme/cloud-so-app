@@ -1,8 +1,5 @@
 ##  Cloud SO App - Links do Projeto
 
-**Repositório do Cloud SO App:**  
-[https://github.com/mavelynleme/cloud-so-app](https://github.com/mavelynleme/cloud-so-app)
-
 **Teste online da aplicação no Render:**  
 [https://cloud-so-app.onrender.com/](https://cloud-so-app.onrender.com/)
 
