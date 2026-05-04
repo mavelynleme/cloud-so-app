@@ -55,6 +55,7 @@ app.get("/", (req, res) => {
           <header>
             <p class="subject">Cloud Computing and Operating Systems</p>
             <h1>Operating System Information</h1>
+            <p class="author">Developed by Mavelyn</p>
           </header>
 
           <table>
@@ -62,6 +63,10 @@ app.get("/", (req, res) => {
               ${tableRows}
             </tbody>
           </table>
+
+          <footer>
+            Academic project developed by Mavelyn Leme
+          </footer>
         </section>
       </main>
     </body>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud SO App
 
 ## 1. Introdução
@@ -192,3 +193,6 @@ A computação em nuvem permite executar a aplicação fora da máquina local, d
 Este projeto demonstra como uma aplicação Node.js simples pode acessar informações do sistema operacional usando o módulo nativo `os`. A atividade permite relacionar programação web com conceitos fundamentais de Sistemas Operacionais, como processos, CPU, memória, sistema hospedeiro e tempo de atividade.
 
 Além disso, a execução local e a publicação no Render mostram a diferença entre um ambiente pessoal e um ambiente em nuvem. Dessa forma, o projeto contribui para compreender como aplicações modernas são executadas, monitoradas e disponibilizadas em diferentes infraestruturas.
+=======
+# cloud-so-app
+>>>>>>> e8dac20f7d684d7b07f3073bd015886e1ea8bf6a
